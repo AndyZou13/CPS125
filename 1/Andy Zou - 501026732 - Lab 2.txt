@@ -1,0 +1,26 @@
+Exercise 3:
+Line 3 int instead of inx
+Line 6 comma between the variable instead of a semicolon
+Line 7 lowercase d in double
+Line 10 logical error because dividing by 0 results error which causes a runtime error 
+Line 11 double quotation befor the word The
+Line 11 \n goes inside the quotations
+Line 11 semicolon at the end
+Line 11 %d changed to %lf for type double
+
+
+Exercise 6:
+1) the lowercase and uppercase 'c', the lowercase initiates char whereas Char is an error
+2) it prints 0
+3) t is not valid because %f specifies a float whereas the provided number is an integer
+4) no it does not work if you omit the ';' after a C statement
+5) %f is a float specifier and %lf is a double specifier
+6) it is a logical error because you can't divide a number by 0 which results in a runtime error
+7) the expression is not valid because the int modulus operator requires both sides of the expression to be integer
+8) the difference is that int main(void) has a return type int and can be used to return a value whereas main() cannot
+9) the placeholder does not output anything
+10) 5/3 and 5.0/3 are the same but 5%3 is not the same, 5%3 is finding the remainder from 5/3
+
+Discovery Activities
+1) The difference between the printf and scanf statement is that the printf is use for printing the output whereas scanf is used to get the input 
+2) The difference between int and double is that int represents a whole number where as double is able to represent decimal numbers. int uses up 4 bytes of memory and double uses 8 bytes of memory
