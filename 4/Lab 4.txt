@@ -1,0 +1,2 @@
+Discovery Question 1
+if (x > 0) will test if the variable x is greater than 0 and if it is, it will execute the code under the if statement once. while (x > 0) will test if the variable x is greater than 0 and will run the code under the while loop. The difference is that the if statement will run the code under it once while the while statement will run it once, loop back to the top, and check the condition again to see if the while loop needs to be run again.
