@@ -1,0 +1,5 @@
+Discovery Question 1
+Parameters are the names used in the definition of the function. Arguments are the values suppplied to the function. Parameters are used to hold the arguments that are supplied into the function.
+
+Discovery Question 2
+The & operator will retrieve the address from a variable. The * operator will allow a variable to change into a pointer which can store an address and can modify the values at that address. The * operator can store the value given by the & operator which can be used to modify the values at the address given by the & operator. 
