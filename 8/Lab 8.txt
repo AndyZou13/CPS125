@@ -1,0 +1,4 @@
+Question 4
+The program would print
+
+Address of m.num Address of m.mess1 Address of m.mess2
