@@ -1,0 +1,5 @@
+Discovery Question 1
+Arrays and loops are made to work together because arrays have multiple elements in them and loops enable the user to be able to iterate through all the elements to work with data in each individual element. We must star tthe array index at 0 instead of 1 because the first element of the array is at 0 not 1. This means that for an array of 5, the index numbers would be 0, 1, 2, 3, 4.
+
+Discovery Question 2
+Arrays are stored through storing each element. Each bucket value is stored with adjacent memory locations to make it easier for the memory to iterate through all the values of one array without mixing it with another array.
