@@ -1,0 +1,14 @@
+Exercise 4:
+This program would not be able to work because although the switch case statement
+is able to handle a range of numbers, the case would need an upper bound 
+and lower bound to work. Since both the first and last case provided are showing a range of numbers that go to infinity, the switch case statement would not be able to handle the task of properly identifying the case in this example.
+
+Exercise 5: 
+a. 1
+b. yes because like math, boolean logic expressions work the same as order of operations
+c. ~(1 && (30 % 10 >= 0) && (30 % 10 <=3))
+d. ~1 || ~(30 % 10 >= 0) ||~(30 % 10 <=3)
+
+Discovery Question 1
+
+The difference between = and == is that = is used when assigning value such as x=3 or y=5. the == is used as a comparator to compare 2 different values and returns a true or false. "if(x=0)" is always false because in the brackets, it should take in a boolean expression and if a boolean expression is not provided then the is statement will return false.
