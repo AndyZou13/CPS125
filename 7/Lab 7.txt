@@ -1,0 +1,5 @@
+Discovery Question 1
+You need to send the size to a function that accepts numerical arrays because only then will it know to allocate that specific amount of data for the arrays that may be passed into the function.
+
+Discovery Question 2
+\0 symbolizes a null character, defining the end of the string. Its an actual 0 in memory. It dicates the end of a character string.
